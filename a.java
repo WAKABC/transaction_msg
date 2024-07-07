@@ -1,2 +1,9 @@
-//定义变量
-int a = 100;
+class a{
+ 
+	public int method(){
+		int a = 0;
+		int b = 10;
+		return a + b;
+	}
+
+}
