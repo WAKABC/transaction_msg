@@ -6,5 +6,4 @@ class a{
 		System.out.println(a+b);
 		return a + b;
 	}
-
 }
