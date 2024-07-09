@@ -6,11 +6,4 @@ class a{
 		System.out.println(a+b);
 		return a + b;
 	}
-
-}
-
-class b{
-   private int a;
-   private int b;
-
 }
