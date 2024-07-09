@@ -8,3 +8,9 @@ class a{
 	}
 
 }
+
+class b{
+   private int a;
+   private int b;
+
+}
